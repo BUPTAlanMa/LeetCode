@@ -37,6 +37,7 @@
         "set": "cpp",
         "unordered_set": "cpp",
         "stack": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "string": "cpp"
     }
 }
